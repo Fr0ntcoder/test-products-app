@@ -33,11 +33,7 @@ git clone https://github.com/Fr0ntcoder/test-products-app.git
 
 cd test-products-app
 
-npm run dev
-# or
+yarn install
+
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
